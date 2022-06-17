@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+html {
+  font-family: sans-serif;
+  background: #1f1f1f;
+}
+
+body {
+  margin: 0 auto;
+}
